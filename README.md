@@ -58,4 +58,4 @@ For example: Please do a ```catkin_make ```, once you have modified your code.
 </p>
 
 ## To add a video
-[[A random video](https://github.com/yushakareem/test-delete/blob/master/light-bulb-2-256.gif)](https://www.youtube.com/watch?v=0BLaLv-jPQU)
+[![A random video](https://github.com/yushakareem/test-delete/blob/master/light-bulb-2-256.gif)](https://www.youtube.com/watch?v=0BLaLv-jPQU).
