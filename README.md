@@ -52,10 +52,12 @@ For example, making a link to [ROS tutorials](http://wiki.ros.org/ROS/Tutorials)
 
 For example: Please do a ```catkin_make ```, once you have modified your code. 
 
-## To add an image
+## To add image(s) or video(s)
+
+* This is an image
+
 <p align="center"> 
 <img src="https://github.com/yushakareem/test-delete/blob/master/light-bulb-2-256.gif">
 </p>
 
-## To add a video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yHwlI645Xfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* This is a link to a [video](https://youtu.be/-yOZEiHLuVU)
