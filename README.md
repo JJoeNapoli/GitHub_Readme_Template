@@ -25,6 +25,11 @@ It presents the result using (images or videos) of the working system, in (real 
 ## Recommendations
 The Recommendations follow naturally from the conclusions. They describe: the assumptions made while building the system (and/or) the limitations of the working system. Therefore, presenting possible ideas that could overcome the limitations or assumptions. 
 
+## Authors
+* FirstName LastName: email@email.com
+* FirstName LastName: email@email.com
+* FirstName LastName: email@email.com
+
 # Useful GitHub readme syntax
 
 ## To make bullet points
